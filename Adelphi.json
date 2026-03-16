@@ -44,11 +44,14 @@
     "trackTitle": "Digital Marketing Track",
     "credits": "3 Adelphi credits",
     "abbreviation": "Adelphi",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "0137-228",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "August 9"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
   },
   {
     "item": "coding-for-web",
@@ -56,11 +59,14 @@
     "trackTitle": "Coding for Web Track",
     "credits": "3 Adelphi credits",
     "abbreviation": "Adelphi",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "0137-228",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "August 9"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
   },
   {
     "item": "data-analytics",
@@ -68,11 +74,14 @@
     "trackTitle": "Data Analytics Track",
     "credits": "3 Adelphi credits",
     "abbreviation": "Adelphi",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "0137-228",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "August 9"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
   },
   {
     "item": "coding-for-data",
@@ -80,11 +89,14 @@
     "trackTitle": "Coding for Data Track",
     "credits": "3 Adelphi credits",
     "abbreviation": "Adelphi",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "0137-228",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "August 9"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
   },
   {
     "item": "career-rotation",
@@ -92,11 +104,14 @@
     "trackTitle": "Career Rotation Track",
     "credits": "3 Adelphi credits",
     "abbreviation": "Adelphi",
-    "registrationMessage": "2026 Summer registration is now open.",
+    "registrationMessage": "Registration is now open.",
     "courseCode1": "0137-228",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 26",
-    "endDate": "August 9"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 26",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
   },
   {
     "item": "reserve-a-seat",
